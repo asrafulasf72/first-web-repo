@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: thistle;
+    height: 40px;
+    padding-top:15px;
+    margin: 10px;
+}
+ul{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+li{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold; 
+}
+#n{
+    height: 200px;
+    width: 80%;
+    background-image: url("image/shifaaz-shamoon-qtbV_8P_Ksk-unsplash.jpg");
+    background-repeat: no-repeat;
+    margin-left: 100px;
+}
